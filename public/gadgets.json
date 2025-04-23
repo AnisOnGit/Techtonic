@@ -1,0 +1,267 @@
+[
+  {
+    "product_id": "GAD001",
+    "product_title": "Apple iPhone 15 Pro",
+    "product_image": "https://cdn.rc-static.com/images/ProductImages/ScaleProducts/0320KM82_Icat_1.jpg",
+    "category": "Phones",
+    "price": 999.99,
+    "description": "The latest iPhone 15 Pro with A17 Pro chip and Titanium body.",
+    "specification": ["6.1-inch OLED display", "128GB Storage", "48MP Camera", "A17 Pro Chip", "iOS 17"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://sineen.com.bd/wp-content/uploads/2024/07/Samsung-Galaxy-Watch6-Smartwatch-5.jpg",
+    "category": "Smart Watches",
+    "price": 329.99,
+    "description": "Stylish and powerful smartwatch with advanced health tracking features.",
+    "specification": ["1.5-inch AMOLED", "Heart Rate Monitor", "Sleep Tracking", "Wear OS", "Water Resistant"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "GAD003",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://images-cdn.ubuy.ae/633ac1a8e22c171ed47edec1-sony-wh-1000xm5-wireless-noise-canceling.jpg",
+    "category": "Accessories",
+    "price": 399.99,
+    "description": "Industry-leading noise canceling over-ear headphones from Sony.",
+    "specification": ["Noise Cancellation", "Bluetooth 5.2", "30-Hour Battery", "Quick Charge", "Touch Controls"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD004",
+    "product_title": "Dell XPS 13 (2024)",
+    "product_image": "https://www.dell.com/wp-uploads/2024/01/Tributo-Platinum-v2.jpg",
+    "category": "Laptops",
+    "price": 1199.99,
+    "description": "Ultra-portable, powerful laptop with 13th Gen Intel processors.",
+    "specification": ["13.4-inch FHD+", "Intel Core i7", "16GB RAM", "512GB SSD", "Windows 11"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD005",
+    "product_title": "iPad Pro M2",
+    "product_image": "https://assets.gadgetandgear.com/upload/product/20221118_1668763773_409394.jpeg",
+    "category": "Tablets & Smart Displays",
+    "price": 899.99,
+    "description": "Powerful iPad Pro with M2 chip and Apple Pencil support.",
+    "specification": ["11-inch Liquid Retina", "M2 Chip", "128GB Storage", "Face ID", "iPadOS 17"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "GAD006",
+    "product_title": "Amazon Echo Dot (5th Gen)",
+    "product_image": "https://executiveample.com/wp-content/uploads/2023/02/Amazon-Echo-Dot-5th-Gen-Smart-Speaker-With-Alexa.jpg",
+    "category": "Accessories",
+    "price": 49.99,
+    "description": "Compact smart speaker with Alexa and improved sound.",
+    "specification": ["Wi-Fi", "Bluetooth", "LED Clock", "Voice Control", "Smart Home Hub"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "GAD007",
+    "product_title": "GoPro HERO12 Black",
+    "product_image": "https://assets.gadgetandgear.com/upload/product/20231007_1696662522_948939.jpeg",
+    "category": "Cameras",
+    "price": 399.99,
+    "description": "Capture stunning 5.3K videos with the latest GoPro HERO12.",
+    "specification": ["5.3K60 Video", "Waterproof", "HyperSmooth 6.0", "TimeWarp", "Voice Control"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD008",
+    "product_title": "DJI Mini 4 Pro",
+    "product_image": "https://www-cdn.djiits.com/dps/70c497d19e5316c3fc0fb15f194e2c81.jpg",
+    "category": "Cameras",
+    "price": 759.00,
+    "description": "Ultra-light foldable drone with 4K camera and obstacle avoidance.",
+    "specification": ["4K Video", "3-axis Gimbal", "31-Min Flight", "GPS", "Follow Me Mode"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD009",
+    "product_title": "Anker PowerCore 10000 PD",
+    "product_image": "https://applepremiumstore.com.ng/wp-content/uploads/2022/07/71rbQ0mHVL._AC_SL1500_.jpg",
+    "category": "Accessories",
+    "price": 45.99,
+    "description": "Compact and powerful portable charger with fast charging support.",
+    "specification": ["10000mAh", "USB-C PD", "18W Output", "Compact Size", "LED Indicator"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD010",
+    "product_title": "Logitech MX Master 3S",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/mx-master-3s/logitech-mx-master-3s-01-500x500.jpg",
+    "category": "Accessories",
+    "price": 99.99,
+    "description": "Advanced ergonomic wireless mouse with ultra-fast scrolling.",
+    "specification": ["4000 DPI Sensor", "Ergonomic Design", "USB-C Charging", "Bluetooth & RF", "Custom Buttons"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "GAD011",
+    "product_title": "MacBook Air M3",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M3-13-Inch-SIlver-7440.jpg",
+    "category": "Laptops",
+    "price": 1099.00,
+    "description": "Supercharged by the M3 chip, with all-day battery life and fanless design.",
+    "specification": ["13.6-inch Retina", "M3 Chip", "8GB RAM", "256GB SSD", "macOS Sonoma"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD012",
+    "product_title": "iPhone 14",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Blue-7810.jpg",
+    "category": "Phones",
+    "price": 799.00,
+    "description": "A classic iPhone experience with a powerful camera and A15 Bionic chip.",
+    "specification": ["6.1-inch Super Retina", "128GB Storage", "12MP Camera", "A15 Bionic", "iOS 16"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD013",
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://www.nexus.com.bd/images/detailed/20/Asus-ROG-Zephyrus-G14-GA403UV-Ryzen-9-14-Inch-3K-Eclipse-Gray-Gaming-Laptop.jpg",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "Powerful gaming laptop with Ryzen 9 and RTX graphics.",
+    "specification": ["14-inch QHD", "Ryzen 9", "16GB RAM", "1TB SSD", "Windows 11"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD014",
+    "product_title": "Nothing Phone 2",
+    "product_image": "https://intl.nothing.tech/cdn/shop/files/Phone-2-PDP-Glyph-Header-Desktop.jpg?v=1688994873",
+    "category": "Phones",
+    "price": 699.00,
+    "description": "A beautifully designed phone with a transparent back and clean UI.",
+    "specification": ["6.7-inch OLED", "Snapdragon 8+ Gen1", "256GB", "50MP Dual Cam", "Nothing OS"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "GAD015",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-Series-9-(3)-6716.jpg",
+    "category": "Smart Watches",
+    "price": 399.00,
+    "description": "Latest Apple Watch with S9 chip, brighter display, and Double Tap.",
+    "specification": ["Always-On Retina", "Blood Oxygen App", "Crash Detection", "watchOS 10", "Water Resistant"],
+    "availability": true,
+    "rating": 4.9
+  },{
+    "product_id": "GAD016",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://mobilebuzzbd.com/wp-content/uploads/2023/12/Pixel-8-Pro.jpg",
+    "category": "Phones",
+    "price": 999.00,
+    "description": "Flagship Pixel with Tensor G3 chip and pro-level camera features.",
+    "specification": ["6.7-inch OLED", "256GB Storage", "50MP Triple Camera", "Tensor G3", "Android 14"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD017",
+    "product_title": "Garmin Venu 3",
+    "product_image": "https://res.garmin.com/en/products/010-02785-00/g/58838-M-VID.jpg",
+    "category": "Smart Watches",
+    "price": 449.99,
+    "description": "Advanced GPS smartwatch with AMOLED display and health metrics.",
+    "specification": ["1.4-inch AMOLED", "GPS", "Pulse Ox", "Sleep Score", "Water Resistant"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "GAD018",
+    "product_title": "Fitbit Versa 4",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Versa-4-Waterfall-Blue-1319.jpg",
+    "category": "Smart Watches",
+    "price": 229.95,
+    "description": "Fitness-focused smartwatch with built-in GPS and daily readiness score.",
+    "specification": ["1.58-inch AMOLED", "Heart Rate Monitor", "Built-in GPS", "Sleep Tracking", "Water Resistant"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "GAD019",
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://computermania.com.bd/wp-content/uploads/2025/01/HP-Spectre-X360-14-Ef2015tu-3.jpg",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "2-in-1 premium laptop with OLED display and Intel Evo performance.",
+    "specification": ["13.5-inch OLED", "Intel Core i7", "16GB RAM", "1TB SSD", "Windows 11"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "GAD020",
+    "product_title": "Samsung Galaxy Tab S9 Ultra",
+    "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Tab-S9-Ultra-Beige-8012.jpg",
+    "category": "Tablets & Smart Displays",
+    "price": 1199.99,
+    "description": "Massive screen, ultra-slim design with S Pen support.",
+    "specification": ["14.6-inch AMOLED", "Snapdragon 8 Gen2", "512GB", "S Pen", "Android 13"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "GAD021",
+    "product_title": "Lenovo Tab P11 Pro Gen 2",
+    "product_image": "https://static.toiimg.com/thumb/msid-94834198,width-1280,height-720,resizemode-4/94834198.jpg",
+    "category": "Tablets & Smart Displays",
+    "price": 399.99,
+    "description": "Premium entertainment tablet with OLED display and quad speakers.",
+    "specification": ["11.2-inch OLED", "MediaTek Kompanio 1300T", "128GB Storage", "Android 12", "Quad JBL Speakers"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "GAD022",
+    "product_title": "Microsoft Surface Go 4",
+    "product_image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Surface-Commercial-Go-4-OG-Image?scl=1",
+    "category": "Tablets & Smart Displays",
+    "price": 599.00,
+    "description": "Ultra-portable Windows tablet ideal for everyday productivity.",
+    "specification": ["10.5-inch PixelSense", "Intel N200", "8GB RAM", "128GB SSD", "Windows 11"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "GAD023",
+    "product_title": "Canon EOS R50",
+    "product_image": "https://www.dpreview.com/files/p/articles/6952765962/Canon_EOS_R50_rear_screen.jpeg",
+    "category": "Cameras",
+    "price": 849.00,
+    "description": "Lightweight mirrorless camera perfect for content creators.",
+    "specification": ["24.2MP APS-C", "4K Video", "Dual Pixel AF II", "RF Lens Mount", "Vari-angle Touchscreen"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "GAD024",
+    "product_title": "Insta360 X4",
+    "product_image": "https://www.rainbowrunner.net/wp-content/uploads/2024/12/5081-X4-CAMERA-INVISIBLE-SELFIE-STICK_20241229_115728_0000.png",
+    "category": "Cameras",
+    "price": 499.00,
+    "description": "Next-gen 360-degree action camera with 8K video support.",
+    "specification": ["8K 360 Video", "Waterproof", "FlowState Stabilization", "Touchscreen", "AI Editing"],
+    "availability": true,
+    "rating": 4.6
+  }
+  
+]
+
