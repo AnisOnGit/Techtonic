@@ -1,12 +1,21 @@
-# React + Vite
+⚡ Techtonic
+Welcome to Techtonic, a sleek and interactive React SPA for discovering and buying the latest tech gadgets.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Site: [Visit Techtonic](https://techtonic-tau.vercel.app/)
 
-Currently, two official plugins are available:
+🚀 Built With React:
+⚛️ React Router DOM – Seamless page navigation
+🧠 useState, useEffect, useContext – State & global data handling
+📍 useLocation, useNavigate – Dynamic routing & redirects
+🎭 Conditional Rendering – Dynamic UI changes
+💬 React Modal & Toasts – Smooth UX feedback
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💾 Data Handling:
+🗂️ Context API – Manage cart & wishlist globally
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Key Features:
+🏠 Home Page – Banner, category sidebar, and gadget cards
+🔍 Details Page – Full item info + Add to Cart & Wishlist
+📊 Dashboard – Tabs for Cart & Wishlist + sort & total price
+🛒 Purchase Modal – Congrats popup, clears cart, redirects home
+🧩 Extras – 404 page, toasts, custom navbar styling, favicon
