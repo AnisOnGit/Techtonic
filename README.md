@@ -14,10 +14,10 @@ Techtonic is a feature-rich SPA where users can explore tech categories, check p
 
 # #  🚀 Technologies Used
 
-- ⚛️ **React Router DOM** – For client-side routing
--📦 **Context API** – Global state management
--📍 **useLocation & useNavigate** – Route-aware behaviors
--💬 **React Modal & Toasts** – Interactive feedback and modals
+- ⚛️ **React Router DOM** – For client-side routing.
+- 📦 **Context API** – Global state management.
+- 📍 **useLocation & useNavigate** – Route-aware behaviors.
+- 💬 **React Modal & Toasts** – Interactive feedback and modals.
 
 ---
 
