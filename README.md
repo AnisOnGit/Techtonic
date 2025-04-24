@@ -46,12 +46,3 @@ Includes toast notifications, custom navbar styles by page, and a site favicon.
 ![image](https://github.com/user-attachments/assets/6d974128-8fae-4ef5-b21e-e74195242a7e)
 ![image](https://github.com/user-attachments/assets/56389824-3032-4068-95d9-0b368ca53e1d)
 
----
-
-## 🛠️ Clone away:
-
-```bash
-git clone https://github.com/Axistus/Techtonic.git
-cd techtonic  
-npm install  
-npm run dev  
